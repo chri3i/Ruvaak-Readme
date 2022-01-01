@@ -136,11 +136,19 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 Most of the important MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new safe.** You can tweak the following MCMs to your liking:
 
-- Lucien (If you set a supported nickname, he will call you by that)
-- SkyUI
-- The Ultimate Dodge Mod (there is a profile loaded for gamepad users as I play with a gamepad myself)
+- Bow Charge Plus (activate it if you like it)
+- CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
+- Breakable Equipment (Mod needs to be activated. Feel free to do so but only if you like the idea of it)
+- CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
-
+- Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
+- Legacy (Race mod which lets you choose which racial power you want to use)
+- Lucien (If you set a supported nickname, he will call you by that)
+- NASC (Normal Attacks Stamina Consumtion, pretty straight forward. Adjust how much stamina your weapons should use)
+- SkyUI
+- Smart Harvest (choose whatever you want there or pause it by pressing 'G' outside of menus)
+- The Ultimate Dodge Mod (there is a profile loaded for gamepad users as I play with a gamepad myself)
+- XPMSE (Adjust the equip styles for your character)
 
 ### Creating your Character
 
@@ -156,7 +164,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### BA Alchemist Arsenal
 
-You need to be level 5 and open the crafting kit to use this.
+You need to be level 5 and open the crafting kit to use this. (more info once I'm done)
 
 ### Controller Setup
 
@@ -223,6 +231,7 @@ Simply delete the folder and you have uninstalled it.
 - Mint for many edits to the readme I'm forking.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors
+- Astro for testing and being a huge help overall
 - The Animonculory Dev Team.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
