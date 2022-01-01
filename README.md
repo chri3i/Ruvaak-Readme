@@ -17,7 +17,7 @@ Wabbajack Modlist Installer by Styyx
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Ruvaak](#Downloading-and-Installing-Ruvaak)
+      - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
