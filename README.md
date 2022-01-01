@@ -137,7 +137,6 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 Most of the important MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new safe.** You can tweak the following MCMs to your liking:
 
 - Bow Charge Plus (activate it if you like it)
-- CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
 - Breakable Equipment (Mod needs to be activated. Feel free to do so but only if you like the idea of it)
 - CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
