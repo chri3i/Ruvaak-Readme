@@ -180,7 +180,7 @@ I personally do not own an Ultrawide, so I cannot offer support. And quite frank
 
 ### Overpowered Enemies
 
-Enemies are spawned from leveled lists which are semi-random. Ruvaak is not De-Leveled but there are occasionally high level enemies in lower level areas. Tough luck, come back later and try your luck. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters, avoid them as a low level character.
+Enemies are spawned from leveled lists which are semi-random. Ruvaak is not de-leveled but there are occasionally high level enemies in lower level areas. You can't defeat them at low levels, try your luck later or use some strategies to overcome these hurdles. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters, avoid them as a low level character.
 
 
 ### I can't draw my weapons underwater
