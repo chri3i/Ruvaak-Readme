@@ -43,9 +43,10 @@ Wabbajack Modlist Installer by Styyx
 Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article. (tbc, document not started yet)
 
 Mods to familiarize yourself while the downloads are running:
-- [Vulture Dynamic Realism 2](https://www.nexusmods.com/skyrimspecialedition/mods/56819) This mod is responsible for stamina drain in and out of combat, highly customizable.
+- [ORDII Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) This is the perk overhaul used in Ruvaak. It takes the excellent Ordinator and combines it with the scaling of Vokrii.
 - [Character Behavior Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/40417?tab=description) Yes, underwater combat is possible and necessary to explore everything
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
+- [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you draw a weapon. **Ruvaak is designed for 3rd person combat as i never play in 1st person and i didn't test anything in 1st person**, if that is off-putting to you, I need to say, sadly this list isn't for you.
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -138,7 +139,6 @@ Most of the important MCM options are automatically configured for you already. 
 - Lucien (If you set a supported nickname, he will call you by that)
 - SkyUI
 - The Ultimate Dodge Mod (there is a profile loaded for gamepad users as I play with a gamepad myself)
-- V.Dynamic Realism (there is a profile to load with my pick but you can change stuff however you like there)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
 
 
