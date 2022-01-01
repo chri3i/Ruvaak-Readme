@@ -132,6 +132,7 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play Ruvaak` and press the run button.
 
+
 ### In-Game MCM options
 
 Most of the important MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new safe.** You can tweak the following MCMs to your liking:
@@ -149,9 +150,11 @@ Most of the important MCM options are automatically configured for you already. 
 - The Ultimate Dodge Mod (there is a profile loaded for gamepad users as I play with a gamepad myself)
 - XPMSE (Adjust the equip styles for your character)
 
-### Creating your Character
 
-The last MCM to tweak is 'Skyrim Unbound'. You can decide yourself whether you want to play as a Dragonborn or not (some follower will refer to you as the Dragonborn no matter what you pick in Skyrim Unbound) but if you do decide against being a Dragonborn you need to know that the **main quest is NOT an option**. After you have chosen your starting gear and setup you can click on "Let's Go" or close the menu and hit 'Backspace'. Proceed with customizing your character however you want or alternatively load one of the presets provided by Shuckleberry. After that hit continue to start the game.
+### Starting the Game
+
+After the MCM is done you'll notice that you're in a room with a weird small dragon and a few objects to loot. Take whatever you want from inside the room to gear up for an adventure. Afterwards talk to the dragon and choose your beginning. There are tons of options, so just pick what sounds best to you. Open the door once you've picked the beginning and go through it. **Please do not try to sprint and jump throught it like you're at the olympic games, all you can get out of that might be some weird bugs**.
+
 
 ## Updating the modlist
 
