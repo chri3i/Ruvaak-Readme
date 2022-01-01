@@ -26,7 +26,7 @@ Wabbajack Modlist Installer by Styyx
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
-    - [Creating your Character](#creating-your-character)
+    - [Starting the Game](#starting-the-game)
   - [Updating Ruvaak](#updating-the-modlist)
   - [FAQ](#faq)
     - [Ultrawide Options](#ultrawide-options)
