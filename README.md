@@ -123,7 +123,8 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Expired Film ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60352) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Manager that provides you with four options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> add preset. [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) for more information.
+Ruvaak comes already set up with [Expired Film ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60352) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Manager that provides you with four options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Take a look at [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) for more information.
 
 ## Playing the List
 
