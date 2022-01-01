@@ -61,7 +61,7 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised: 
 - SSD
 - 6GB GPU (1660 super/5600XT); 8GB GPU (1070/5700XT) recommended
 
-Space required: Approx 146GB (Downloads included)
+Space required: Approx 160GB (Downloads included)
 
 ## Installation
 
@@ -123,7 +123,7 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with Ominous ENB for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Manager that provides you with three  options . By default, Ruvaak uses the Full version.
+Ruvaak comes already set up with [Expired Film ENB](https://www.nexusmods.com/skyrimspecialedition/mods/60352) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Manager that provides you with four options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> add preset. [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) for more information.
 
 ## Playing the List
 
@@ -176,6 +176,21 @@ If you use a gamepad, however, you should make yourself familiar with the change
 ### Ultrawide Options
 
 I personally do not own an Ultrawide, so I cannot offer support. And quite frankly I do not know if widescreen even works on AE yet
+
+
+### Overpowered Enemies
+
+Enemies are spawned from leveled lists which are semi-random. Ruvaak is not De-Leveled but there are occasionally high level enemies in lower level areas. Tough luck, come back later and try your luck. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters, avoid them as a low level character.
+
+
+### I can't draw my weapons underwater
+
+That's how the mod works and i can't change anything about that. To fight underwater you need to have your weapons drawn before going in.
+
+
+### OP Loot
+
+There are some extremely powerful items in most of the dungeon boss chests. While i might make some adjustments, you can assume it's intentional. I want loot to feel rewarding, after all, there's a chance that you had some tough battles before getting to the chest.
 
 ### Survival Mode
 
