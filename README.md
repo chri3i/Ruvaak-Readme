@@ -250,7 +250,7 @@ Simply delete the folder and you have uninstalled it.
 - Mint for many edits to the readme I'm forking.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors
-- Astro for testing and being a huge help overall
+- Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot
 - The Animonculory Dev Team.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
