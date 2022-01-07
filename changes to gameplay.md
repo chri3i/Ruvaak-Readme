@@ -1,6 +1,6 @@
 # The video game has been modified
 
-Almost every aspect of vanilla gameplay in Tinvaak has been changed in some way. If something feels different from the vanilla game, it's almost certainly intentional and is not a bug. This document details the major changes that are present in the list along with mods that you should know about going into playing this list.
+Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. If something feels different from the vanilla game, it's almost certainly intentional and is not a bug. This document details the major changes that are present in the list along with mods that you should know about going into playing this list.
 
 - *Note: This list is not exhaustive. Many other components to the list are not listed here deliberatly so that you can find them out.*
 
@@ -28,11 +28,11 @@ Various other gameplay mods used include:
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
-11. [Smart Harves](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (G by default).
+11. [Smart Harvest](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (G by default).
 
 ## Magic Mods
 
-Tinvaak comes with a a curated selection of Magic mods to fit a range of different mage archetypes.
+Ruvaak doesn't come with huge magic overhauls, but those in the list, have a huge impact.
 
 1. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) adds new mage archetypes to the game.
 
@@ -49,13 +49,15 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 ## Combat Mods
 
-Tinvaak 2 completely reworks combat from the previous version by including a fully updated suite of mechanics and animations.
+Ruvaak completely reworks combat to be more action based than vanilla.
 
-1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide.
+1. [Normal Attack Stamina Consumption - NASC](https://www.nexusmods.com/skyrimspecialedition/mods/32996) changes how attacks work so that stamina matters. You need stamina to attack and it drains stamina while doing so (adjustable in the MCM).
 
-2. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
+2. [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) changes how the combat camera works. Ruvaak is designed for 3rd person combat and this mod forces the camera into 3rd person view.
 
-3. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
+3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment **after the first swing**, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
+
+4.  [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is a leight weight alternative to the popular CGO mod. This mod allows jumping attacks and it also introduces leaning while moving (adjustable in the MCM).
 
 ## Quest and Encounter Mods
 
