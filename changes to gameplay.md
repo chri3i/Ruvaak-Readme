@@ -61,7 +61,7 @@ Ruvaak completely reworks combat to be more action based than vanilla.
 
 ## Quest and Encounter Mods
 
-Tinvaak comes with a wide variety of new quest and encounters. A few are listed below.
+Ruvaak comes with a wide variety of new quest and encounters. A few are listed below.
 
 1. [At your own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is a series of mods that overhaul the pace of some quests like the main quest. If a quest doesn't preceed as expected in vanilla, chances are it's this series of mod. Check out the mod page to see how the quests are structured now.
 
