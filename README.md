@@ -1,4 +1,4 @@
-# Ruvaak very much WIP
+# Ruvaak
 
 Wabbajack Modlist Installer by Styyx
 
@@ -35,6 +35,7 @@ Wabbajack Modlist Installer by Styyx
     - [Zoomed in Display](#zoomed-in-display)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
+  - [Known Issues](#known-issues)
 
 ## Preamble
 
@@ -242,6 +243,9 @@ This is caused by Windows display scaling feature. To fix this you can do either
     
 ## Removing the Modlist
 Simply delete the folder and you have uninstalled it.
+
+## Known Issues
+- Before reporting any issues please refer to [Known Issues](https://github.com/chri3i/Ruvaak-Readme/blob/main/Known%20Issues.md) to see if your issue is mentioned there already. While i try to fix any issues that come up, I can't fix everything, please be patient.
 
 ## Credits and Thanks
 
