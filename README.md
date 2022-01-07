@@ -253,7 +253,7 @@ Simply delete the folder and you have uninstalled it.
 - Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
 - Mint for many edits to the readme I'm forking.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
-- Destiny for proofreading the readme and pointing out many errors
+- Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it
 - Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot
 - The Animonculory Dev Team.
 - Noggog for Mutagen.
