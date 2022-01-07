@@ -12,21 +12,23 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
 
-3. [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) fundamentally changes how races are done with an emphasis of putting both NPCs and the player on a even playing field. Expect a different experience from what you are used with certain races being more skilled than others in certain areas.
+3. [Legacy - A race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36415) is a large scale rework of both Werewolf and Werebear, creating a whole new gameplay dynamic as Lycanthrope with new mechanics and a heavily expanded perk tree.
 
-4. [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
+4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
-5. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat.
+5. [Enhanced Vampirism](https://www.nexusmods.com/skyrimspecialedition/mods/61029) + [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely overhaul the vampire gameplay. I highly suggest checking out both mod pages to get an idea about the vampire gameplay.
 
 6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
 7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
-8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
+8. [Menhir - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/59927) greatly changes the effects and appearance of the standing stones.
 
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
-10. [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
+10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
+
+11. [Smart Harves](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (G by default).
 
 ## Magic Mods
 
@@ -34,15 +36,16 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 1. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) adds new mage archetypes to the game.
 
-2. [The Dark Arts](https://www.nexusmods.com/skyrimspecialedition/mods/29834) seeks to improve the Necromancy experience in Skyrim. It allows you to customize reanimated thralls, introduces rituals to create and upgrade a wide range of undead creatures, allows players to dissect corpses and harvest ingredients, reintroduces the Shade of the Revenant, and adds a few Necromancy related spells.
+2. [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711) adds a few very powerful spells to the game which are possible to further enhance with perks unique to each spell.
 
-3. [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) improves and fixes vanilla Skyrim spells, makes scrolls and staves viable, and adds new spells, scrolls, and staves inspired by previous Elder Scrolls magic.
+3. [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) is an overhaul that fixes bugs in Vanilla spells, fills in gaps in the game's magic progression, and adds new spells from previous Elder Scrolls titles. 
 
-4. [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) overhauls and adds new enchantments to the world. This has been custom tweaked to ensure optimum variety and diversity.
+4. [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game. 
 
-5. [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) gives the player the opportunity to become, through the course of their long and arduous journey of exploration and study, a terrifying and destructive undead Lich. [Classic Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802) and [Prelude to Purgatory](https://www.nexusmods.com/skyrimspecialedition/mods/53143) are also used to both fix and enhance this mechanic to offer a true, 'third' supernatural archetype for characters to play.
+5. [The Path of Transcendence - Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/25654)  is a light-weight lichdom mod designed to compliment many other Necromancy themed Mods such as Ordinator's necromancy
 
-6. [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929?tab=description) changes magic so it is no longer instantly learned through spell tomes. In fact, all spell tomes have been removed from leveled lists and vendors. You will embark on a journey of knowledge to discover and unlock your innate arcane talents through methods such as spellcrafting and spell theory, to even reverse-engineering spells or creating a grimoire to store your spells for a later use should you wish to unlearn them. A mage is no longer some tome consuming void, and you will now have to take care to prepare notes and research the spells you wish to create. We implore you all to check out the mod page for a full breakdown of its features, though! We wish you good luck on your journey through Aetherius!
+6. [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) is a highly adjustable mod for spell learning. Select conditions and method for learning. Keep or destroy the book. Unlearn already known spell and more. Check out the mod page and the MCM of it to learn more
+
 
 ## Combat Mods
 
