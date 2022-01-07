@@ -116,16 +116,13 @@ A modlist wouldn't be complete without a few new soundtracks and a weather upgra
 
 ## Survival & Immersion
 
-Tinvaak comes with multiple survival and immersion mods which form part of the core basis of the list.
+Ruvaak is by no means a heavily roleplaying focused list but there are some mods that make it possible on a pretty basic level.
 
-1. [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is the most feature-rich stand-alone camping mod for The Elder Scrolls V: Skyrim. It was created from Frostfall 2.6's unique, immersive camping system. Now, you can enjoy an unparalleled camping experience in conjunction with some of your other favorite survival and immersion mods.
+1. [CC Survival mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) is further enhanced by mods like [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152), [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Sleep under the Stars](https://www.nexusmods.com/skyrimspecialedition/mods/20548) and [Frost Resist provides Warmth](https://www.nexusmods.com/skyrimspecialedition/mods/61272)
 
-2. [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is a survival and needs mod. Many other survival options are either too large in scope, or they are too lightweight and do not have full survival features. The author wanted SunHelm to bridge the gap where a full feature mod was needed, but in a somewhat lightweight and performance friendly manner.
+2. [CC Camping](https://en.uesp.net/wiki/Skyrim:Camping) lets you build basic campsides. It works with Survival mode turned off as well in case you don't like survival elements but still want to build campsites.
 
-3. [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886) makes it so that your character will accumulate dirt and blood dynamically, which you can clean by swimming, standing in the rain, or taking a bath. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles.
+3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576) makes it so that if you abuse potions your character will become addicted. Think twice before you start chugging potions of health; they may do you more harm than good.
+4. **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
 
-5. [L.V.X Magicks - Campfire Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/11001), [Dylbill's Positioner](https://www.nexusmods.com/skyrimspecialedition/mods/33917) and [Decorator Helper](https://www.nexusmods.com/skyrimspecialedition/mods/11708) provide the framework for settlement creation. Setup your own headquarters anywhere or add the extension you always wanted to your Hearthfire house.
-
-(**IMPORTANT:** If you plan on spawning large structures such as houses, forts, towers, etc. - once you have spawned them in, be sure to save, exit and then restart the game. Failure to do so could result in a corrupted save file due to how Skyrim reads static objects. Interior cell renovations do not seem to cause this at all, so carry on as per usual there.)
