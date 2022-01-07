@@ -63,27 +63,30 @@ Ruvaak completely reworks combat to be more action based than vanilla.
 
 Tinvaak comes with a wide variety of new quest and encounters. A few are listed below.
 
-1. [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396) and [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882) allows you to make an impact on Skyrim by clearing locations for factions or guards. Once claimed or cleared, the locations will change accordingly.
+1. [At your own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is a series of mods that overhaul the pace of some quests like the main quest. If a quest doesn't preceed as expected in vanilla, chances are it's this series of mod. Check out the mod page to see how the quests are structured now.
 
 2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 
-3. [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time... 
+3. [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087) gives a feeling of urgence to the Dawnguard questline. Now you can't simply start the quest and forget forever about it. Harkon has plans and he will go after Auriel's bow if you don't stop him.
 
-4. [OBIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/4145), [High Level Enemies Redux](https://www.nexusmods.com/skyrimspecialedition/mods/32801), [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017) and Druidic Bandits form the core of the expanded enemy system. Encounters will no longer be simple affiars, with a larger variety of bandits and more of them. Expect the unexpected.
+4. [Rogue-Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), [Coven - A witch overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596), [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and [High Level Enemies Redux](https://www.nexusmods.com/skyrimspecialedition/mods/32801) form the core of the expanded enemy system. Encounters will no longer be simple affiars, with a larger variety of bandits and more of them. Expect the unexpected.
 
-5. [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680) adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.
+5. [Open World Bosses](https://www.nexusmods.com/skyrimspecialedition/mods/6117) adds a few MMO-Like creatures into the game. Don't expect to stand a chance against them early on.
 
 6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
+7. [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178) assures you, that you are not alone in the world and somebody is after your character
+
 ## Expanded Cities Towns and Villages
 
-Tinvaak uses a range of different settlement mods to try and give each location its own unique flair. In areas where compatability or performance was sub-optimal, this has been patched and tweaked.
+Ruvaak is relatively easy in terms of city overhauls but it adds a few new settlements as well.
 
-[RedBag's Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/42052), [Alternative Riften](https://www.nexusmods.com/skyrim/mods/101461), [Capital Whiterun Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/37982), [Capital Windhelm Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42990) and [SKY CITY - Markarth Rising](https://www.nexusmods.com/skyrimspecialedition/mods/22482) provide the major holds with both a facelift and also a unique feel. Expect changes such as new districts, soaring dwemer structures, new NPC's and more. [JK's Interiors](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files) are also used to provide unique feeling to key locations that you will visit.
+1. [Enhanced Town and Cities - ETaC](https://www.nexusmods.com/skyrimspecialedition/mods/13552) is used as the city overhaul of choice, further enhanced by mods like [Illustrious Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/28950) and [Northfire's Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
 
-[Cities of the North Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [ClefJ's Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/41409), [ClefJ's Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/49546) and [The Great City of Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709) are used to breathe new life into minor hold capitals. Expect to find some unique architecture, new NPC's, new building layouts, and other changes.
+2. [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777) expands various locations throughout Skyrim by adding NPCs and buidings to them.
 
-[The Great City/Town/Village](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files) series by SoldierofWar are used to provide smaller settlements with the uplift they needed. With unique arthitecture styles and meaningful changes, these mods provide the base for the smaller location overhauls. The [Thanedom of Series](https://www.nexusmods.com/skyrimspecialedition/users/42928635?tab=user+files) by Axis1211 are then used to fill in the gaps. The mods make small and tasteful edits to small locations and add some new ones for you to discover as you explore the world.
+3. [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) ensures that not only friendly NPCs have expanded their settlements
+
 
 ## Followers
 
@@ -91,13 +94,13 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 1. [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
-2. [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking, he won't chatter, and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in Archery, One-Handed, and Sneak. 
+2. [Lucifer](https://www.nexusmods.com/skyrimspecialedition/mods/44967) is a fully voiced Argonian follower with over 5K lines of dialogue and custom built features. Despite his unnatural voice for an Argonian, he is a skilled fighter. Gain his trust and he will share what he knows about himself as he doesn't know who he really is, even though he may disagree with some of your actions, he won't leave your side. 
 
 3. [Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164). Feel as though there's not enough dogs in Skyrim? Well now you can have your own unique corgi which will happily bite the heels of your enemies!
 
-4. [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956), the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens!
+4. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
 
-5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
+5. [Kaldus](https://www.nexusmods.com/skyrimspecialedition/mods/58358) is a unique follower with a rather unique appearance. 
 
 ## Music and Weather
 
