@@ -7,3 +7,5 @@
 3. close the game and restart. The keybindings are now saved and everything works as it should again
 
 - Sometimes your character will turn invisible and visible seemingly random. While i don't know the cause of it, usually a simple quicksave followed by quickloading gets rid of it
+
+-I can't draw weapons underwater: Yes that's known and the mod author didn't find a fix for that. So till the mod gets an update, (highly unlikely) you need to draw your weapons before going on a deep sea hunt
