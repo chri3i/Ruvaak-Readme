@@ -5,3 +5,5 @@
 1. change them in the MCM
 2. save the game
 3. close the game and restart. The keybindings are now saved and everything works as it should again
+
+- Sometimes your character will turn invisible and visible seemingly random. While i don't know the cause of it, usually a simple quicksave followed by quickloading gets rid of it
