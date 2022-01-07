@@ -104,11 +104,11 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 ## Music and Weather
 
-A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Tinvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
+A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Ruvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
 
-1. [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) is the weather mod of choice for Tinvaak 2. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
+1. [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
 
-2. [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) pretty much does what it says and serves as a master plugin for a range of musical additions. Check the mod page for more details on the music that's patched.
+2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list
 
 3. [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) does what it pretty much says on the tin. Expect sounds to feel more relistic and, well, overhauled.
 
