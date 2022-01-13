@@ -104,6 +104,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+	- Google Drive links sometimes fail. Download the linked files and place it in the same place as the other downloaded files: [xLodGen Output](https://drive.google.com/u/0/uc?id=1UpnxL66aVuC6KUauAp_uaZy_iaQTK6-R&export=download), [DynDOLOD Output](https://drive.google.com/u/0/uc?id=1Pz_MmmdJRe-p8w-noDLYtbtEY2kE-k3N&export=download), [Bodyslide Output](https://drive.google.com/u/0/uc?id=1tE6fNPk4YFhGCms62xmICgQvOIwQNBNC&export=download) and [TexGen Output](https://drive.google.com/u/0/uc?id=1jSOksna-G6CXQGiHWER-bVJzAHXJmHcq&export=download)
 
 - x is not a whitelisted download:
 
