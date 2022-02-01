@@ -139,9 +139,8 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 ### In-Game MCM options
 
-Most of the important MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the following MCMs to your liking:
+All of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
 
-- Bow Charge Plus (activate it if you like it)
 - CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
 - Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
@@ -149,14 +148,15 @@ Most of the important MCM options are automatically configured for you already. 
 - Lucien (If you set a supported nickname, he will call you by that)
 - NASC (Normal Attacks Stamina Consumtion, pretty straight forward. Adjust how much stamina your weapons should use)
 - SkyUI
-- Smart Harvest (choose whatever you want there or pause it by pressing 'G' outside of menus)
+- Smart Harvest (choose whatever you want there or pause it by pressing 'O (the letter)' outside of menus)
 - The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
 - XPMSE (Adjust the equip styles for your character)
+- I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
 
 
 ### Starting the Game
 
-After the MCM is done you'll notice that you're in a room with a weird small dragon and a few objects to loot. Take whatever you want from inside the room to gear up for an adventure. Afterwards talk to the dragon and choose your beginning. There are tons of options, so just pick what sounds best to you. Open the door once you've picked the beginning and go through it. **Please do not try to sprint and jump throught it like you're at the olympic games. All you can get out of that is possibly some weird bugs.**
+After the MCM is done you'll notice that you're in a room with a weird small dragon and a few objects to loot. Take whatever you want from inside the room to gear up for an adventure. I highly suggest taking the 'stakes' with you and always keep some in your inventory as it might be the only way to reliably kill vampires. Afterwards talk to the dragon and choose your beginning. There are tons of options, so just pick what sounds best to you. Open the door once you've picked the beginning and go through it. **Please do not try to sprint and jump throught it like you're at the olympic games. All you can get out of that is possibly some weird bugs.**
 **Note that Ruvaak has some very strong spawns in the wild. Choosing a start that puts you into the wilderness can result in immediate combat/death**
 
 
@@ -188,11 +188,6 @@ I personally do not own an Ultrawide, so I cannot offer support. And quite frank
 Enemies are spawned from leveled lists which are semi-random. Ruvaak is not de-leveled but there are occasionally high level enemies in lower level areas. You can't defeat them at low levels. Try your luck later or use some strategies to overcome these hurdles. There are also some extremly powerful bosses scattered around the world. Those are meant for mid to high level characters. Avoid them as a low level character.
 
 
-### I can't draw my weapons underwater
-
-That's how the mod works and I can't change anything about that. To fight underwater you need to have your weapons drawn before going in.
-
-
 ### OP Loot
 
 There are some extremely powerful items in most of the dungeon boss chests. While I might make some adjustments, you can assume it's intentional. I want loot to feel rewarding. After all, there's a chance that you had some tough battles before getting to the chest.
@@ -201,6 +196,14 @@ There are some extremely powerful items in most of the dungeon boss chests. Whil
 
 While the list is made with Survival mode in mind, you will probably sometimes need to disable it to fully utilize the mods in the list (Underwater combat for example as most of the new underwater creatures are in the north and you'll freeze to death there when you swim)
 It can be freely enabled and disabled in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
+
+### Equipment is too weak
+
+Make sure you meet the requirements for the equipment you want to use. By default Ruvaak restricts certain equipments to specific skill levels.
+
+### Help, my gear broke
+
+If your equipment got damaged or destroyed, visit a blacksmith to temper it, or temper it yourself at the right crafting station for your equipment type.
 
 ### Tweaking the Game Settings
 
@@ -253,7 +256,7 @@ Simply delete the folder and you have uninstalled it.
 
 - _YOU_ for reading this.
 - Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
-- Mint for many edits to the readme I'm forking.
+- Chef for the help with the armors
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it
 - Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot
