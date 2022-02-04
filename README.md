@@ -55,15 +55,17 @@ This work is licensed under a
 
 ## System Requirements
 
-Ruvaak is aimed at mid tier machines so a system like the following is advised: tbc
+Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
-### 1080p
-- 2nd Gen Ryzen (2800x)/6th Gen Intel i5 CPU 
-- 16GB DDR4 Ram
-- SSD
-- 6GB GPU (1660 super/5600XT); 8GB GPU (1070/5700XT) recommended
+### 1080p (my specs)
+- CPU: AMD Ryzen 7 3700X
+- RAM: 16GB DDR4
+- Drive: SSD
+- GPU: NVIDIA GeForce RTX 3070 8BG
 
-Space required: Approx 160GB (Downloads included)
+It will prob run good on lower specs as well but i recommend at least 6GB VRAM (GPU)
+
+Space required: Approx 192GB (Downloads included)
 
 ## Installation
 
