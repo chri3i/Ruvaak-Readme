@@ -51,7 +51,7 @@ Mods to familiarize yourself while with the downloads are running:
 - [Character Behavior Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/40417?tab=description) Yes, underwater combat is possible and necessary to explore everything
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
 - [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you draw a weapon. **Ruvaak is designed for 3rd person combat as I never play in 1st person and i didn't test anything in 1st person**. If that is off-putting to you, I need to say, sadly this list probably isn't for you. *The mod can be deactivated but note that 1st person combat is as vanilla as it gets*. To help you aiming in 3rd person there are 2 mods. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) for the arrow prediction and [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for locking onto enemies.
-- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [Dealing with Daedra](https://www.nexusmods.com/skyrimspecialedition/mods/40494), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) and [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087)
+- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) and [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -68,7 +68,7 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
 It will prob run good on lower specs as well but i recommend at least 6GB VRAM (GPU)
 
-Space required: Approx 192GB (Downloads included)
+Space required: Approx 193GB (Downloads included)
 
 ## Installation
 
@@ -96,12 +96,14 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing Ruvaak can take a while depending on your internet connection and computer. To install Ruvaak, complete the following steps.
 
-1. Open Wabbajack and click on browse modlists.
-2. Press the download button on Ruvaak and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Ruvaak.
-4. Press the play button to begin.
-5. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-6. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+1. Click on the link at the top of this readme.
+2. Press the download button and wait for it to download. Download it to a location you remember as you need it once you open Wabbajack
+3. Open Wabbajack and select `Install from Disc`
+4. Set the installation folder to be somewhere like C:\Games\Ruvaak.
+5. The download location does not need to be on a SSD but it makes installing a bit faster
+6. Press the play button to begin.
+7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ##### Problems with installation
 
@@ -109,8 +111,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-	- Google Drive links sometimes fail. Download the linked files and place it in the same place as the other downloaded files: [xLodGen Output](https://drive.google.com/u/0/uc?id=1UpnxL66aVuC6KUauAp_uaZy_iaQTK6-R&export=download), [DynDOLOD Output](https://drive.google.com/u/0/uc?id=1Pz_MmmdJRe-p8w-noDLYtbtEY2kE-k3N&export=download), [Bodyslide Output](https://drive.google.com/u/0/uc?id=1tE6fNPk4YFhGCms62xmICgQvOIwQNBNC&export=download) and [TexGen Output](https://drive.google.com/u/0/uc?id=1jSOksna-G6CXQGiHWER-bVJzAHXJmHcq&export=download)
-
+	- Google Drive links sometimes fail. Download the linked files and place it in the same place as the other downloaded files: [Bodyslide Output](https://drive.google.com/u/0/uc?id=1tE6fNPk4YFhGCms62xmICgQvOIwQNBNC&export=download)
 - x is not a whitelisted download:
 
 	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
