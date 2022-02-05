@@ -12,7 +12,7 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
 
-3. [Legacy - A race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36415) is a large scale rework of both Werewolf and Werebear, creating a whole new gameplay dynamic as Lycanthrope with new mechanics and a heavily expanded perk tree.
+3. [Legacy - A race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36415) is a racial overhaul that also impacts NPCs. It keeps the vanilla racial powers while also providing some passives for each race. Also lets you freely choose the racial you want. For example: If you want a Khajiit with Altmer powers, Legacy got you covered.
 
 4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
