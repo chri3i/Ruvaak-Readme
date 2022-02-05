@@ -1,7 +1,6 @@
 ### Ruvaak Player Homes
 
-CC content has some good player homes but Ruvaak has a few more
-
+Ruvaak features the player homes from the Creation Club as well as a variety of player homes for you to choose from, such as
 - [The Alchemist's Laboratory](https://www.nexusmods.com/skyrimspecialedition/mods/51382) - As the name suggests a small lab for alchemists in the heart of Riften
 - [Ouada-Ruhn](https://www.nexusmods.com/skyrimspecialedition/mods/52788) - A Dunmer themed player home located in Solstheim by Raven Rock
 - [Varbaril](https://www.nexusmods.com/skyrimspecialedition/mods/54439) - A bosmer themed player home near the frozen north of Skyrim (hint: near the Thalmor Embassy)
