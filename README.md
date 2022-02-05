@@ -38,6 +38,7 @@ Wabbajack Modlist Installer by Styyx
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Known Issues](#known-issues)
+  - [Found a bug](#I-found-a-bug)
 
 ## Preamble
 
@@ -255,6 +256,11 @@ Simply delete the folder and you have uninstalled it.
 
 ## Known Issues
 - Before reporting any issues please refer to [Known Issues](https://github.com/chri3i/Ruvaak-Readme/blob/main/Known%20Issues.md) to see if your issue is mentioned there already. While i try to fix any issues that come up, I can't fix everything, please be patient.
+
+## I found a bug
+
+Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
+
 
 ## Credits and Thanks
 
