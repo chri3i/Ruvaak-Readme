@@ -63,7 +63,7 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 - CPU: AMD Ryzen 7 3700X
 - RAM: 16GB DDR4
 - Drive: SSD
-- GPU: NVIDIA GeForce RTX 3070 8BG
+- GPU: NVIDIA GeForce RTX 3070 8GB
 
 It will prob run good on lower specs as well but i recommend at least 6GB VRAM (GPU)
 
