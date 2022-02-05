@@ -2,7 +2,7 @@
 
 Wabbajack Modlist Installer by Styyx
 
-**Modlist Download: [Ruvaak.wabbajack](https://drive.google.com/file/d/1BH7_ODiZ_Fcjqc1hT8kBmPlzsECMzG7x/view?usp=sharing)**
+**Modlist Download: [Ruvaak.wabbajack](https://drive.google.com/u/0/uc?id=1BH7_ODiZ_Fcjqc1hT8kBmPlzsECMzG7x&export=download)**
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
