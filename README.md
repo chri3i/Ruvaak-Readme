@@ -264,7 +264,7 @@ Simply delete the folder and you have uninstalled it.
 
 Go to the GitHub [Issues](https://github.com/chri3i/Ruvaak-Readme/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
 
-##Changelog
+## Changelog
 
 For see what changes happened in each version please refer to the [Changelog](https://github.com/chri3i/Ruvaak-Readme/blob/main/Changelog.md)
 
