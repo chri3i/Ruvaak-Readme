@@ -28,7 +28,7 @@ Various other gameplay mods used include:
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
-11. [Smart Harvest](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (G by default).
+11. [Smart Harvest](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (O - letter by default).
 
 ## Magic Mods
 
