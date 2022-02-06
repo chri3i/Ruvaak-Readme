@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us Create a report to help us improve and fix issues
+about: Create a report to help us improve and fix issues
 title: '''[BUG]'' "Details"'
 labels: bug, documentation, duplicate, help wanted, question, wontfix
 assignees: chri3i
