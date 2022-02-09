@@ -160,7 +160,7 @@ All of the MCM options are automatically configured for you already. Wait until 
 - Lucien (If you set a supported nickname, he will call you by that)
 - NASC (Normal Attacks Stamina Consumtion, pretty straight forward. Adjust how much stamina your weapons should use)
 - SkyUI
-- Smart Harvest (choose whatever you want there or pause it by pressing 'O (the letter)' outside of menus)
+- Smart Harvest (choose whatever you want there or pause it by pressing 'O (the letter)' outside of menus), **Press K with an item selected in your inventory to add said item to the black list so that Smart Harvest ignores it (recommended once you found your first 'Ice Claw'**
 - The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
 - XPMSE (Adjust the equip styles for your character)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
