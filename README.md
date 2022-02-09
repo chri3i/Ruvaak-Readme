@@ -2,7 +2,7 @@
 
 Wabbajack Modlist Installer by Styyx
 
-**Modlist Download: [Ruvaak.wabbajack](https://drive.google.com/u/0/uc?id=1BH7_ODiZ_Fcjqc1hT8kBmPlzsECMzG7x&export=download)**
+**Modlist Download: [Ruvaak.wabbajack](https://github.com/chri3i/Ruvaak-Readme/releases/download/v1.0.1/Ruvaak.wabbajack)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
