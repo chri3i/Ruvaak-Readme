@@ -6,6 +6,8 @@ Wabbajack Modlist Installer by Styyx
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
+![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
