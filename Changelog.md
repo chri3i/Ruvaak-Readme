@@ -1,3 +1,23 @@
+Version 1.0.2 \
+**Update is save safe**
+
+Fixes:
+- Distribution of Spider Touch (spell and scrolls)
+- added new Seperator "Optional Mods"
+
+
+Updated:
+- [PPB](https://www.nexusmods.com/skyrimspecialedition/mods/51046?tab=files)
+- [Rebalancing Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/61004?tab=files)
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+- [True Hud](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
+
+Added:
+- [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057)
+- [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166) as optional plugin to tick. By default it's not activated
+
+Removed:
+
 Version 1.0.1 \
 **Update is save safe**
 
