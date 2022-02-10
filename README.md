@@ -29,6 +29,7 @@ Wabbajack Modlist Installer by Styyx
     - [Game Folder](#game-folder)
     - [BethINI](#bethini)
     - [ENB](#enb)
+    - [Optional Mods](#Optional-mods)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
@@ -140,6 +141,10 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Four** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. One of them is pretty niche and definitely not for everyone [A Crimson Place](https://www.nexusmods.com/skyrimspecialedition/mods/61375). If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
+
+### Optional Mods
+
+In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game
 
 ## Playing the List
 
