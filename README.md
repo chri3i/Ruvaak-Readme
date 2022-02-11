@@ -50,7 +50,9 @@ Wabbajack Modlist Installer by Styyx
 
 > "You are not alone. Remember this the next time you wander the harsh, frozen lands of Skyrim. Many have tried --and failed-- to discover what lurks out there, in the mists, and many will after you are gone. Tell me, do you have what it takes to survive?"
 
-Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [Changes to Gameplay](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md) article. (not yet finished)
+Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [Changes to Gameplay](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md) article. 
+
+### **Ruvaak requires the full AE version, means, the paid AE DLC.**
 
 Mods to familiarize yourself while with the downloads are running:
 - [ORDII Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) This is the perk overhaul used in Ruvaak. It takes the excellent Ordinator and combines it with the scaling of Vokrii.
