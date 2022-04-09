@@ -2,7 +2,7 @@
 
 Wabbajack Modlist Installer by Styyx
 
-**Modlist Download: [Ruvaak.wabbajack](https://github.com/chri3i/Ruvaak-Readme/releases)**
+**Modlist Download: [Wabbajack UI](https://github.com/wabbajack-tools/wabbajack/releases)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
@@ -160,14 +160,13 @@ Make sure the dropdown box on the right is set to `Play Ruvaak` and press the ru
 
 All of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. **Failing to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak the MCMs to your liking:
 
-- CGO (Leaning and Camera noise can be adjusted. I set them to 0.25)
+- CGO (Leaning and Camera noise can be adjusted. I set them to 0.0)
 - Combat Difficulty Customizer (again, default profile is loaded but if the game is too hard/easy you can tweak stuff there)
 - Draw 2 (Goes hand in hand with the equipment styles you can set up in XPMSE MCM)
 - Legacy (Race mod which lets you choose which racial power you want to use)
 - Lucien (If you set a supported nickname, he will call you by that)
-- NASC (Normal Attacks Stamina Consumtion, pretty straight forward. Adjust how much stamina your weapons should use)
+- Sovngarde Beckons (tinker with the settings as you like)
 - SkyUI
-- Smart Harvest (choose whatever you want there or pause it by pressing 'O (the letter)' outside of menus), **Press K with an item selected in your inventory to add said item to the black list so that Smart Harvest ignores it (recommended once you found your first 'Ice Claw'**
 - The Ultimate Dodge Mod (A config will get loaded upon start. You don't have to change anything there really)
 - XPMSE (Adjust the equip styles for your character)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
@@ -175,8 +174,7 @@ All of the MCM options are automatically configured for you already. Wait until 
 
 ### Starting the Game
 
-After the MCM is done you'll notice that you're in a room with a weird small dragon and a few objects to loot. Take whatever you want from inside the room to gear up for an adventure. I highly suggest taking the 'stakes' with you and always keep some in your inventory as it might be the only way to reliably kill vampires. Afterwards talk to the dragon and choose your beginning. There are tons of options, so just pick what sounds best to you. Open the door once you've picked the beginning and go through it. **Please do not try to sprint and jump throught it like you're at the olympic games. All you can get out of that is possibly some weird bugs.**
-**Note that Ruvaak has some very strong spawns in the wild. Choosing a start that puts you into the wilderness can result in immediate combat/death**
+At first you have the choice whether you want to skip the intro or not. In case you skip it, you spawn at the end of Helgen's cave to create your character. Once done, you can leave the cave and finish the game's very first quest. There's a chest to your right (only if you skip the intro) with some goods to get you started. 
 
 
 ## Updating the modlist
@@ -199,7 +197,7 @@ Also if you use a gamepad, activate the mod 'Gamepad MCM' in the 'Gamepad' secti
 
 ### Ultrawide Options
 
-I personally do not own an Ultrawide, so I cannot offer support. And quite frankly I do not know if widescreen even works on AE yet
+I personally do not own an Ultrawide, so I cannot offer support.
 
 
 ### Overpowered Enemies
@@ -238,7 +236,7 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 Ruvaak ships with an ENB setup that is configured to match the look of the list. If you wish to make some changes though, here are a few common tweaks. I recommend opening the console before doing edits.
 
-##### Removing the letterbox
+##### Removing the letterbox (in general as Ominous doesn't have that effect enabled)
 
 1. Press [Shift+Enter] to open the ENB menu.
 2. In the tab called Shader Parameters, select the `ENBPOSTPASS.FX` section. It will open once you click on it.
@@ -284,10 +282,12 @@ For see what changes happened in each version please refer to the [Change log](h
 
 - _YOU_ for reading this.
 - Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
-- Chef for the help with the armors
+- Chef for the help with the armors.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
-- Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it
-- Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot
+- Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
+- Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot.
 - The Animonculory Dev Team.
+- Guitarninja for walking me through uploading the list.
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
+
