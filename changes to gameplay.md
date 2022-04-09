@@ -12,7 +12,7 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
 
-3. [Legacy - A race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36415) is a racial overhaul that also impacts NPCs. It keeps the vanilla racial powers while also providing some passives for each race. Also lets you freely choose the racial you want. For example: if you want a Khajiit with Altmer powers, Legacy's got you covered.
+3. [Phylogeny - Races of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/44371) removes most racial powers in favor of new passives. Passives apply to npcs as well as the player.
 
 4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
@@ -28,7 +28,8 @@ Various other gameplay mods used include:
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
-11. [Smart Harvest](https://www.nexusmods.com/skyrimspecialedition/mods/37091) is a highly customizable QOL mod to loot everything you want automatically. You can turn it off temporarily with a hotkey (O - letter by default).
+11. [Gold to skill potions](https://www.nexusmods.com/skyrimspecialedition/mods/65578) Usually after 20h+ gameplay, it's very difficult to spend your 200k+ gold gained from all around the world. This mod now provides you another option.
+
 
 ## Magic Mods
 
@@ -38,7 +39,7 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 2. [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711) adds a few very powerful spells to the game which are possible to further enhance with perks unique to each spell.
 
-3. [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) is an overhaul that fixes bugs in Vanilla spells, fills in gaps in the game's magic progression, and adds new spells from previous Elder Scrolls titles. 
+3. [Odin - Skyrim Magic Overhaul ](https://www.nexusmods.com/skyrimspecialedition/mods/46000) is what magic in Skyrim should have been. It improves and fixes vanilla Skyrim spells, makes scrolls and staves viable, and adds new spells, scrolls and staves inspired by previous Elder Scrolls magic. The new content is balanced and seamlessly integrated into the game.
 
 4. [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game. 
 
@@ -51,7 +52,7 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 Ruvaak completely reworks combat to be more action based than vanilla.
 
-1. [Normal Attack Stamina Consumption - NASC](https://www.nexusmods.com/skyrimspecialedition/mods/32996) changes how attacks work so that stamina matters. You need stamina to attack and it drains stamina while doing so (adjustable in the MCM).
+1. [Sovngarde Beckons](https://www.nexusmods.com/skyrimspecialedition/mods/64128) provides to many changes to combat to list here. I highly recommend checking out the mod page. Feel free to adjust anything in its MCM.
 
 2. [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) changes how the combat camera works. Ruvaak is designed for 3rd person combat and this mod forces the camera into 3rd person view.
 
@@ -59,11 +60,13 @@ Ruvaak completely reworks combat to be more action based than vanilla.
 
 4.  [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is a leight weight alternative to the popular CGO mod. This mod allows jumping attacks and it also introduces leaning while moving (adjustable in the MCM).
 
+5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game.
+
 ## Quest and Encounter Mods
 
 Ruvaak comes with a wide variety of new quest and encounters. A few are listed below.
 
-1. [At your own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) is a series of mods that overhaul the pace of some quests like the main quest. If a quest doesn't preceed as expected in vanilla, chances are it's this series of mod. Check out the mod page to see how the quests are structured now.
+1. [Nightbringer - Grim Reaper Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/14691) Adds a 'Grim Reaper'-inspired enemy to the game that will hunt you starting at level 19.
 
 2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 
@@ -106,7 +109,7 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Ruvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
 
-1. [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
+1. [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) is the weather mod of choice for Ruvaak. Pairing with the ENB perfectly, it provides the perfect backdrop for the list.
 
 2. [Personalized Music](https://www.nexusmods.com/skyrimspecialedition/mods/2572) + [Dark Era](https://www.nexusmods.com/skyrimspecialedition/mods/39746) provide the music to give the feeling i was going for with the list
 
