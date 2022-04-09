@@ -106,6 +106,9 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing Ruvaak can take a while depending on your internet connection and computer. To install Ruvaak, complete the following steps.
 
 1. Open Wabbajack and click on ``browse modlists``
+   - don't forget to tick ``show unofficial lists`` 
+![UnofficialListHelp](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/UnofficialListHelp.png)
+
 2. Press the download button on Ruvaak and wait for it to download.
 3. Set the installation folder to be somewhere like C:\Games\Ruvaak. **Do not install it to your desktop, downloads folder or Skyrim's game folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
