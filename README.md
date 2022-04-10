@@ -78,8 +78,11 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
 It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
 
-Space required: Approx 184GB (Downloads included)
-Size without downloads: Approx 121GB
+Space required: 
+- Approx 184GB (Downloads included)
+ 
+Size without downloads: 
+- Approx 121GB
 
 ## Installation
 
