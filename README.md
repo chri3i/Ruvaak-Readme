@@ -154,7 +154,7 @@ Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for 
 ### Optional Mods
 
 In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
-You will find a set of mods that belong together there: Skyrim Skill Uncapper, Skyrim Skill Uncapper - Ruvaak's Balance and Uncapper - Experience Setup. Enable either all of these 3 or none. Be aware that this setup is experimental and might be not that balanced, that's why I left it as optional till I tested it more.
+You will find a set of mods that belong together there: Skyrim Skill Uncapper, Skyrim Skill Uncapper - Ruvaak's Balance and Uncapper - Experience Setup. Enable either all of these 3 or none. **It has to be done on a new save, DO NOT ENABLE THEM ON AN EXISTING SAVE**. Be aware that this setup is experimental and might be not that balanced, that's why I left it as optional till I tested it more.
 
 ## Playing the List
 
