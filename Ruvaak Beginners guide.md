@@ -46,4 +46,22 @@ Alchemy can do more than providing fancy potions and  [Badass Alchemist's Arsena
 
 > BOOOOM "That sounds like a very effective method to come by a pig demon in the wild"
 
+## Friends
+
+> "It's dangerous to go alone! Take friends with you."
+
+1. [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
+
+2. [Lucifer](https://www.nexusmods.com/skyrimspecialedition/mods/44967) is a fully voiced argonian adventuring companion. Despite his unnatural voice for an Argonian, he is a skilled fighter. Gain his trust and he will share what he knows about himself as he doesn't know who he really is, even though he may disagree with some of your actions, he won't leave your side.
+
+3. [Gladys the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164). Feel as though there's not enough dogs in Skyrim? Well, now you can have your own unique corgi which will happily bite the heels of your enemies!
+
+4. [Kaldus](https://www.nexusmods.com/skyrimspecialedition/mods/58358), a strange fella who's waiting for you near Flakreath. Discover him yourself it'll be worth it!
+
+5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433). Still not enough corgi in your Skyrim? Well, then you'll want to take this loveable and magical pup on the road with you! A unique combat-oriented corgi follower that will be sure to set your enemies ablaze with glee!
+
+> "Always look at the shadows and don't get greedy if you plan to survive."
+
+If you need more informations or just want learn more about the mods in use, visit the mod pages linked here or in the [Changes to gameplay document](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md)
+
 
