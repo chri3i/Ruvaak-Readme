@@ -61,6 +61,7 @@ Mods to familiarize yourself while with the downloads are running:
 - [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you draw a weapon. **Ruvaak is designed for 3rd person combat as I never play in 1st person and I didn't test anything in 1st person**. If that is off-putting to you, I need to say, sadly this list probably isn't for you. *The mod can be deactivated but note that 1st person combat is as vanilla as it gets*. To help you aiming in 3rd person, I have included 2 mods. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) for the arrow prediction and [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for locking onto enemies.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
 - Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) and [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087)
+- The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -77,7 +78,8 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 
 It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
 
-Space required: Approx 193GB (Downloads included)
+Space required: Approx 184GB (Downloads included)
+Size without downloads: Approx 121GB
 
 ## Installation
 
