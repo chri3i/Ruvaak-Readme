@@ -100,7 +100,7 @@ While Ruvaak is focused on enhancing what is in the base game, we also have a fe
 
 1. [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) *"﻿A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
 
-2. [A lot of dungeon mods from this author](https://www.nexusmods.com/skyrimspecialedition/users/3591326) there are too many to list them, but I'm quite a fan of this mod author and the amount of dungeons of them reflects that.
+2. [A lot of dungeon mods from this author](https://www.nexusmods.com/skyrimspecialedition/users/3591326) there are too many to list them, but I'm quite a fan of this mod author and the amount of dungeons from them reflects that.
 
 3. [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) "Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power. No quest, no holding hand, heavily inspired by The Demon's/Dark Souls games."
 
