@@ -50,17 +50,21 @@ Ruvaak doesn't come with huge magic overhauls, but those in the list, have a hug
 
 ## Combat Mods
 
-Ruvaak completely reworks combat to be more action based than vanilla.
+Ruvaak completely reworks combat to be more action based and heavily 3rd person focused. For the combat setup I used this [video](https://www.youtube.com/watch?v=645W6WRrZ_4). While it shares similarities with Souls games (so do action based games since Zelda Ocarina of Time), it is by no means meant to replicate it!
 
 1. [Sovngarde Beckons](https://www.nexusmods.com/skyrimspecialedition/mods/64128) provides to many changes to combat to list here. I highly recommend checking out the mod page. Feel free to adjust anything in its MCM.
 
-2. [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) changes how the combat camera works. Ruvaak is designed for 3rd person combat and this mod forces the camera into 3rd person view.
+2. [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) changes how the combat camera works. Ruvaak is designed for 3rd person combat and this mod forces the camera into 3rd person view. You can disable it in MO2 to play in 1st person, but you will miss out on everything i overhauled about combat.
 
-3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment **after the first swing**, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
+3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
 
 4.  [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is a leight weight alternative to the popular CGO mod. This mod allows jumping attacks and it also introduces leaning while moving (adjustable in the MCM).
 
 5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game.
+
+6. [Wait your Turn](https://www.nexusmods.com/skyrimspecialedition/mods/66243) is a lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern. 
+
+7. [Paulicus Poison Block (PPB) Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51046) is a small, immersive mod that allows the player and NPCs to block incoming poison damage and disease effects when successfully blocking with a shield/weapon or ward spell.
 
 ## Quest and Encounter Mods
 
@@ -70,7 +74,7 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 
 2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 
-3. [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087) gives a feeling of urgence to the Dawnguard questline. Now you can't simply start the quest and forget forever about it. Harkon has plans and he will go after Auriel's bow if you don't stop him.
+3. [TDF Equipment Restriction](https://www.nexusmods.com/skyrimspecialedition/mods/22830) adds skill requirements to weapons, armors and spells so you can't get lucky and use the ebony axe you found somewhere at level 1. Highly adjustable in its MCM.
 
 4. [Rogue-Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872), [Coven - A witch overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596), [Heritage Enemies 2](https://www.nexusmods.com/skyrimspecialedition/mods/55989) and [High Level Enemies Redux](https://www.nexusmods.com/skyrimspecialedition/mods/32801) form the core of the expanded enemy system. Encounters will no longer be simple affiars, with a larger variety of bandits and more of them. Expect the unexpected.
 
@@ -90,6 +94,19 @@ Ruvaak is relatively easy in terms of city overhauls but it adds a few new settl
 
 3. [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) ensures that not only friendly NPCs have expanded their settlements
 
+## New Lands and Quests
+
+While Ruvaak is focused on enhancing what is in the base game, we also have a few additions.
+
+1. [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) *"﻿A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
+
+2. [A lot of dungeon mods from this author](https://www.nexusmods.com/skyrimspecialedition/users/3591326) there are too many to list them, but I'm quite a fan of this mod author and the amount of dungeons of them reflects that.
+
+3. [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) "Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power. No quest, no holding hand, heavily inspired by The Demon's/Dark Souls games."
+
+4. [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
+
+5. [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784) removes or otherwise alters many backexits from Vanilla dungeons.
 
 ## Followers
 
@@ -127,5 +144,13 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 3. [Pick your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710) gives you books that list the alchemical ingredients and their effects.
 
-4. **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
+4. [Natural Character Growth and Decay](https://www.nexusmods.com/skyrimspecialedition/mods/26292) makes it so Health, Magicka, Stamina and Carry Weight will naturally grow according to your playstyle independent of level or skills. It's highly adjustable in its MCM and you can even turn on the vanilla attributes on top of it in its MCM (not advised though, as you'll end up with pretty high attributes early on)
+
+5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
+
+6. [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963) together with an add-on for it allows you to toggle your helmet and the addon even allows to have automatic lowered hoods in any safe interior.
+
+7. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
+
+ ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
 
