@@ -6,6 +6,12 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Gameplay
 
+
+## Perma Death (Rouge Like mechanic)
+
+- the mod is located near the bottom of the left side in MO2 and is completely optional **before you start a new game**. I left it on by default as I like it, but I know many won't like it. If you are one of those who don't like it, simply disable it in MO2
+
+
 Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
 
 Various other gameplay mods used include:
