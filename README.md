@@ -24,6 +24,7 @@ Wabbajack Modlist Installer by Styyx
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Ruvaak](#downloading-and-installing-ruvaak)
+      - [Beta Install](#beta-install)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
@@ -60,7 +61,7 @@ Mods to familiarize yourself while with the downloads are running:
 - [Rogue Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872) This mod spawns some creepy and some pretty powerful enemies alongside --or instead of-- vanilla enemies to spice up the gameplay a bit. Don't shy away from fleeing if some enemies are a bit too much. The mod does more than just spawning enemies, as well. You'll see a few powers in your character's magic menu after starting the game. One of them is trap crafting. Explore it as you might need it later on.
 - [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856) This mod is responsible for the automatic change to 3rd person whenever you draw a weapon. **Ruvaak is designed for 3rd person combat as I never play in 1st person and I didn't test anything in 1st person**. If that is off-putting to you, I need to say, sadly this list probably isn't for you. *The mod can be deactivated but note that 1st person combat is as vanilla as it gets*. To help you aiming in 3rd person, I have included 2 mods. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) for the arrow prediction and [TDM](https://www.nexusmods.com/skyrimspecialedition/mods/51614) for locking onto enemies.
 - For player homes please refer to [the list of player homes](https://github.com/chri3i/Ruvaak-Readme/blob/main/Ruvaak%20Player%20Homes.md)
-- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) and [End Times of Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/61087)
+- Some noteworthy mods without going into more detail [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178), [The Shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167) and [Blackreack Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435)
 - The full list of mods in Ruvaak can be viewed [here](https://loadorderlibrary.com/lists/ruvaak-1)
 
 This work is licensed under a
@@ -79,7 +80,7 @@ Ruvaak is aimed at mid tier machines so a system like the following is advised:
 It will prob run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
 
 Space required: 
-- Approx 184GB (Downloads included)
+- Approx 188GB (Downloads included)
  
 Size without downloads: 
 - Approx 121GB
@@ -121,6 +122,10 @@ Downloading and installing Ruvaak can take a while depending on your internet co
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
+#### Beta Install
+
+- To install a beta version of the list (I might publish updates as an open beta first to ensure stability with the main release) refer to the [beta install instructions](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/Beta%20Release%20instructions.md)
+
 ##### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
@@ -148,13 +153,15 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Four** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. One of them is pretty niche and definitely not for everyone [A Crimson Place](https://www.nexusmods.com/skyrimspecialedition/mods/61375). If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Three** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ### Optional Mods
 
 In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
-You will find a set of mods that belong together there: Skyrim Skill Uncapper, Skyrim Skill Uncapper - Ruvaak's Balance and Uncapper - Experience Setup. Enable either all of these 3 or none. **It has to be done on a new save, DO NOT ENABLE THEM ON AN EXISTING SAVE**. Be aware that this setup is experimental and might be not that balanced, that's why I left it as optional till I tested it more.
+- Almost Permadeath Reloaded SP has to be removed **before** you start a new game and with it you can disable ``Game Over - Permadeath Media``
+- Seamless combat camera is the mod that forces you into 3rd person with your weapons out, not everyone's cup of tea but i highly recommend trying the list in 3rd person
+
 
 ## Playing the List
 
@@ -182,7 +189,8 @@ All of the MCM options are automatically configured for you already. Wait until 
 
 ### Starting the Game
 
-At first you have the choice whether you want to skip the intro or not. In case you skip it, you spawn at the end of Helgen's cave to create your character. Once done, you can leave the cave and finish the game's very first quest. There's a chest to your right (only if you skip the intro) with some goods to get you started. 
+- I added a bunch of character presets for you to create your character off of. The folder system does not work with a controller but you can switch to your mouse on without disabling the controller anyway.
+- You will start in a strange place called 'the Realm of Lorkhan' feel free to explore this area for any goods and standing stones. There are boons and class shrines there as well but note that there is no way of removing the boons and curses as of now so make a save before picking one!
 
 
 ## Updating the modlist
@@ -205,7 +213,7 @@ Also if you use a gamepad, activate the mod 'Gamepad MCM' in the 'Gamepad' secti
 
 ### Ultrawide Options
 
-I personally do not own an Ultrawide, so I cannot offer support.
+I personally do not own an Ultrawide, so I cannot offer support. If you can set it up with the mods present in the list, please tell me how or make a pull request for this part of the readme and write it in here.
 
 
 ### Overpowered Enemies
@@ -260,6 +268,8 @@ If you are struggling for frames but want the colour correction and realism, tur
 - ComplexFireLights
 - ComplexParticleLights – Disable Big Range
 - Reflection
+- Complex Grass Collision
+- Complex Grass
 
 If you really cannot handle the ENB, uncheck `useEffect`.
 
@@ -296,7 +306,7 @@ For see what changes happened in each version please refer to the [Change log](h
 - Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot.
 - The Animonculory Dev Team.
 - Guitarninja for walking me through uploading the list.
-- SiraMirai for the Skyrim Skill Uncapper preset that's being used as optional mod.
+- SiraMirai for the Skyshard adjustments (not fully implemented yet).
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
