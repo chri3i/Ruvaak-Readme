@@ -4,6 +4,8 @@ Wabbajack Modlist Installer by Styyx
 
 **Modlist Download: [Wabbajack UI](https://github.com/wabbajack-tools/wabbajack/releases)**
 
+**Modlist Update BETA download: [Releases](https://github.com/chri3i/Ruvaak-Readme/releases/download/v2.1.0beta/Ruvaak.wabbajack)**
+
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
 ![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
