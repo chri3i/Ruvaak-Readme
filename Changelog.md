@@ -1,3 +1,53 @@
+## Version 2.1.1.0 PREVIEW not finished yet
+- **Currently in open beta**
+- **Update is save safe IF you update from the last beta**
+- **mainly to ensure that the list is installable again**
+
+### Short Description:
+- Removed 'The Dwemer' due to it being deleted from Nexus
+- added a few Enemies
+- Almost Permadeath is now **disabled** by default
+- LODs are not done and i hope they don't cause issues in that state (will be fixed probably tomorrow)
+
+### Added
+
+- [4k Mihail's Griffin](https://www.nexusmods.com/skyrimspecialedition/mods/67398/?tab=files&file_id=281636)
+- [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=180928)
+- [Ancient Dwemer Metal Patches - Lost of T'Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=134018)
+- [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610/?tab=files&file_id=1000213503)
+- [Ancient Nordic Sentinel- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/24549/?tab=files&file_id=231449)
+- [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
+- [Griffins- Mihail Monsters and Animals (SE-AE version)](https://www.nexusmods.com/skyrimspecialedition/mods/50869/?tab=files&file_id=207596)
+- [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=180581)
+- [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=187420)
+- [JS Dwarven Oil SE](https://www.nexusmods.com/skyrimspecialedition/mods/66770/?tab=files&file_id=278260)
+- [JS Dwemer Artifacts SE](https://www.nexusmods.com/skyrimspecialedition/mods/67631/?tab=files&file_id=281872)
+- [JS Dwemer Ichor Barrels SE](https://www.nexusmods.com/skyrimspecialedition/mods/67162/?tab=files&file_id=279934)
+- [JS Dwemer Kitchenware SE](https://www.nexusmods.com/skyrimspecialedition/mods/67026/?tab=files&file_id=279343)
+- [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578/?tab=files&file_id=277350)
+- [Magic Sneak Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/67613/?tab=files&file_id=281850)
+- [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=281315)
+- [Old Gods of the Hunt- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/27520/?tab=files&file_id=281829)
+- [Redguard Elite Armaments - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67532/?tab=files&file_id=281456)
+- [Sconces of Skyrim - Markarth Braziers Improved](https://www.nexusmods.com/skyrimspecialedition/mods/67386/?tab=files&file_id=281222)
+- [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785/?tab=files&file_id=269296)
+- [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=281838)
+- [The Gray Cowl Returns - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67439/?tab=files&file_id=281283)
+- [Vanilla Texture Paths for Mihail's Ancient Nordic Sentinel](https://www.nexusmods.com/skyrimspecialedition/mods/67037/?tab=files&file_id=279379)
+
+### Removed
+
+- [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102/?tab=files&file_id=161734)
+- [the Dwemer 4K 2K](https://www.nexusmods.com/skyrimspecialedition/mods/49234/?tab=files&file_id=229461)
+
+### Updated
+
+- [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=281624)
+- [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
+- [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855/?tab=files&file_id=281316)
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=281057)
+- [Wait Your Turn a la SOT patch only](https://www.nexusmods.com/skyrimspecialedition/mods/66243/?tab=files&file_id=281249)
+
 ## Version 2.1.0.0 
 - **Currently in open beta**
 - **Update is NOT save safe**
@@ -81,9 +131,6 @@
 - [Wind Ruler Armor SE - hdt-SMP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63036/?tab=files&file_id=261535)
 - [saLa Hair - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/25438/?tab=files&file_id=90156)
 - [saLa Hair](https://www.nexusmods.com/skyrimspecialedition/mods/11480/?tab=files&file_id=44037)
-
-
-
 
 ### Removed
 
