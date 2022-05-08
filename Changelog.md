@@ -1,43 +1,76 @@
-## Version 2.1.1.0 PREVIEW not finished yet
+## Version 2.1.1.0
 - **Currently in open beta**
-- **Update is save safe IF you update from the last beta**
+- **Update is potentially save safe IF you update from the last beta**
 - **mainly to ensure that the list is installable again**
+- Download Size change: 724.8MB (Total: 76.2GB)
+- Install Size change: 7.2GB (Total: 112.2GB)
 
 ### Short Description:
-- Removed 'The Dwemer' due to it being deleted from Nexus
-- added a few Enemies
-- Almost Permadeath is now **disabled** by default
-- LODs are not done and i hope they don't cause issues in that state (will be fixed probably tomorrow)
+- Removed 'The Dwemer' due to it being deleted from Nexus.
+- added a few Enemies.
+- Almost Permadeath is now **disabled** by default.
+- new Seperator called ``Optional Music``. Can be enabled/disabled at any time.
+- Finally Paper Maps
 
 ### Added
 
 - [4k Mihail's Griffin](https://www.nexusmods.com/skyrimspecialedition/mods/67398/?tab=files&file_id=281636)
-- [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=180928)
+- [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=178217)
 - [Ancient Dwemer Metal Patches - Lost of T'Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=134018)
 - [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610/?tab=files&file_id=1000213503)
 - [Ancient Nordic Sentinel- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/24549/?tab=files&file_id=231449)
 - [ENB Particle Lights - Dwemer Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
+- [Flat World Map Framework SE](https://www.nexusmods.com/skyrimspecialedition/mods/29932/?tab=files&file_id=265854)
 - [Griffins- Mihail Monsters and Animals (SE-AE version)](https://www.nexusmods.com/skyrimspecialedition/mods/50869/?tab=files&file_id=207596)
-- [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=180581)
 - [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=187420)
 - [JS Dwarven Oil SE](https://www.nexusmods.com/skyrimspecialedition/mods/66770/?tab=files&file_id=278260)
 - [JS Dwemer Artifacts SE](https://www.nexusmods.com/skyrimspecialedition/mods/67631/?tab=files&file_id=281872)
 - [JS Dwemer Ichor Barrels SE](https://www.nexusmods.com/skyrimspecialedition/mods/67162/?tab=files&file_id=279934)
 - [JS Dwemer Kitchenware SE](https://www.nexusmods.com/skyrimspecialedition/mods/67026/?tab=files&file_id=279343)
 - [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578/?tab=files&file_id=277350)
+- [Lost of T'Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=143722)
 - [Magic Sneak Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/67613/?tab=files&file_id=281850)
+- [Markarth Paper Map by Mirhayasu for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/62386/?tab=files&file_id=258663)
 - [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=281315)
 - [Old Gods of the Hunt- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/27520/?tab=files&file_id=281829)
+- [Otherside ENB](https://www.nexusmods.com/skyrimspecialedition/mods/61921/?tab=files&file_id=256703)
+- [Paper Blackreach Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=260068)
+- [Paper Darkend Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/60691/?tab=files&file_id=251479)
+- [Paper Forgotten Vale Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54628/?tab=files&file_id=278942)
+- [Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53788/?tab=files&file_id=220925)
+- [Paper Soul Cairn Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=278484)
+- [Paper Sovngarde Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54255/?tab=files&file_id=260069)
 - [Redguard Elite Armaments - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67532/?tab=files&file_id=281456)
 - [Sconces of Skyrim - Markarth Braziers Improved](https://www.nexusmods.com/skyrimspecialedition/mods/67386/?tab=files&file_id=281222)
 - [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785/?tab=files&file_id=269296)
+- [Skyrim Epic music Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/42215/?tab=files&file_id=199201)
 - [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=281838)
+- [The Elder Scrolls VI Level Up Sound](https://www.nexusmods.com/skyrimspecialedition/mods/28848/?tab=files&file_id=106060)
 - [The Gray Cowl Returns - Voiced Narrative](https://www.nexusmods.com/skyrimspecialedition/mods/67439/?tab=files&file_id=281283)
 - [Vanilla Texture Paths for Mihail's Ancient Nordic Sentinel](https://www.nexusmods.com/skyrimspecialedition/mods/67037/?tab=files&file_id=279379)
 
+
 ### Removed
 
+- [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=272824)
+- [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=273975)
+- [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=280748)
+- [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=280648)
+- [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855/?tab=files&file_id=279312)
+- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=274096)
+- [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=274097)
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=228707)
+- [Ruvaak21Outputs.7z](https://authored-files.wabbajack.org/Ruvaak21Outputs.7z_5a8f6926-b03c-4d11-bef7-157d0637beab)
+- [RuvaakPatches.7z](https://authored-files.wabbajack.org/RuvaakPatches.7z_0da401c7-d4fa-4d51-a19d-9e0458b07cc8)
+- [Seasons of Skyrim - Remove Unwanted Grass (Like No Grassias)](https://www.nexusmods.com/skyrimspecialedition/mods/63476/?tab=files&file_id=264371)
+- [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861/?tab=files&file_id=265834)
+- [Seasons of Skyrim SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63475/?tab=files&file_id=263584)
+- [Select Your Season](https://www.nexusmods.com/skyrimspecialedition/mods/64278/?tab=files&file_id=277353)
+- [Shrubs of Snow - Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/63463/?tab=files&file_id=263612)
 - [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102/?tab=files&file_id=161734)
+- [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623/?tab=files&file_id=277949)
+- [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=262162)
+- [Wait Your Turn a la SOT patch only](https://www.nexusmods.com/skyrimspecialedition/mods/66243/?tab=files&file_id=279506)
 - [the Dwemer 4K 2K](https://www.nexusmods.com/skyrimspecialedition/mods/49234/?tab=files&file_id=229461)
 
 ### Updated
@@ -45,6 +78,8 @@
 - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=281624)
 - [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 - [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855/?tab=files&file_id=281316)
+- [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=281908)
+- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=281907)
 - [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=281057)
 - [Wait Your Turn a la SOT patch only](https://www.nexusmods.com/skyrimspecialedition/mods/66243/?tab=files&file_id=281249)
 
