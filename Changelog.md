@@ -53,15 +53,6 @@
 ### Removed
 
 - [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=272824)
-- [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=273975)
-- [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=280748)
-- [CritterSpawn Congestion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=280648)
-- [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855/?tab=files&file_id=279312)
-- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=274096)
-- [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=274097)
-- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=228707)
-- [Ruvaak21Outputs.7z](https://authored-files.wabbajack.org/Ruvaak21Outputs.7z_5a8f6926-b03c-4d11-bef7-157d0637beab)
-- [RuvaakPatches.7z](https://authored-files.wabbajack.org/RuvaakPatches.7z_0da401c7-d4fa-4d51-a19d-9e0458b07cc8)
 - [Seasons of Skyrim - Remove Unwanted Grass (Like No Grassias)](https://www.nexusmods.com/skyrimspecialedition/mods/63476/?tab=files&file_id=264371)
 - [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861/?tab=files&file_id=265834)
 - [Seasons of Skyrim SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63475/?tab=files&file_id=263584)
@@ -70,7 +61,6 @@
 - [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102/?tab=files&file_id=161734)
 - [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623/?tab=files&file_id=277949)
 - [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=262162)
-- [Wait Your Turn a la SOT patch only](https://www.nexusmods.com/skyrimspecialedition/mods/66243/?tab=files&file_id=279506)
 - [the Dwemer 4K 2K](https://www.nexusmods.com/skyrimspecialedition/mods/49234/?tab=files&file_id=229461)
 
 ### Updated
