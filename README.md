@@ -4,8 +4,6 @@ Wabbajack Modlist Installer by Styyx
 
 **Modlist Download: [Wabbajack UI](https://github.com/wabbajack-tools/wabbajack/releases)**
 
-**Modlist Update BETA download: [Releases](https://github.com/chri3i/Ruvaak-Readme/releases/download/v2.1.0beta/Ruvaak.wabbajack)**
-
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
 ![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
@@ -155,14 +153,15 @@ Ruvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### ENB
 
-Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Three** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
+Ruvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. In the executables drop down menu in MO2, you will find an ENB Organizer that provides you with **Four** options. Depending on your PC you might want to check them out. All of them are kind of dark, fitting for the theme i was going for. If you want to install your own ENB put them into a seperate folder in Ruvaak/tools/Enb Manager/Managed ENB. You need to manually add them in the ENB Manager program afterwards. Click on Skyrim --> Go to the preset Tab --> Add preset.\
 Take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ### Optional Mods
 
 In your MO2 window you will find a seperator called 'Optional Mods' plugins within this seperator are save to activate mid game unless stated otherwise. Removal of them is not adviced mid game.
-- Almost Permadeath Reloaded SP has to be removed **before** you start a new game and with it you can disable ``Game Over - Permadeath Media``
+- Almost Permadeath Reloaded SP has to be activated **before** you start a new game and with it you can activate ``Game Over - Permadeath Media``
 - Seamless combat camera is the mod that forces you into 3rd person with your weapons out, not everyone's cup of tea but i highly recommend trying the list in 3rd person
+- A few music mods. They can be enabled/disabled at any time, feel free to try them.
 
 
 ## Playing the List
