@@ -31,4 +31,4 @@ Most of them are self-contained and easy to add. The reason I didn't do it, is b
 
 ### Combat Behavior Mods
 
-**Straight forward: DO NOT TOUCH an of that unless you know exactly what you are doing.** Ruvaak uses a combination of something like six combat behavior mods and you will end up with weird animations and all sorts of problems if you don't do it right.
+**Straight forward: DO NOT TOUCH any of that unless you know exactly what you are doing.** Ruvaak uses a combination of something like six combat behavior mods and you will end up with weird animations and all sorts of problems if you don't do it right.
