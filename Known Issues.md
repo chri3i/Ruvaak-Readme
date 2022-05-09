@@ -12,3 +12,5 @@ I can't fix any of those as of now expect the level ranges but this will take ti
 
 - PermaDeath mod doesn't generate a life at the start of the playthrough. It's a known issue with the mod as of now please refer to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/66710)
 ![Permadeath reloaded workaround](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/PermaDeathIssue.png)
+
+- Wolves: they sometimes are invincible during power attacks and some wolves *glide* around on the floor. Most wolves are fine and I wait on a mod update that fixes that cause removing the wolf behavior mod is a bad idea due to wolves having the ability to stun lock you to death when there are 3 of them.
