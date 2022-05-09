@@ -41,6 +41,7 @@ Wabbajack Modlist Installer by Styyx
     - [Controller setup](#controller-setup)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
+    - [Can I add? Is X compatible](#can-i-add?-is-x-compatible)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Known Issues](#known-issues)
@@ -289,6 +290,10 @@ This is caused by Windows display scaling feature. To fix this you can do either
 	- Fullscreen: `True`
 	- Borderless: `False`
     
+### Can I add? Is X compatible
+
+In case you have questions like these, refer to the [modification page](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/Ruvaak_Modifications.md).<br > Note that you need to know a bit about modding to successfully change stuff. We have a general modding channel in our support server where you can talk about modifications.
+
 ## Removing the Modlist
 Simply delete the folder and you have uninstalled it.
 
