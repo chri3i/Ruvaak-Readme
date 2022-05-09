@@ -187,6 +187,13 @@ All of the MCM options are automatically configured for you already. Wait until 
 - XPMSE (Adjust the equip styles for your character)
 - I recommend to look at 'Breakable Equipment' to flag any lantern (one is found in the starting room) as unbreakable
 
+Ruvaak also makes use of a few GUI menus:
+
+- CatHub allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``
+- Immersive Equipment Distplay allows you to show equipment on your character. Key ``Backspace``
+- QUI is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
+- ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``
+
 
 ### Starting the Game
 
