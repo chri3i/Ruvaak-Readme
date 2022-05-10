@@ -1,3 +1,34 @@
+## Version 2.1.2.0
+- **Still in open beta**
+- **Update IS save safe as long as you did not take any of the classes, boons or curses in the starting area**
+- Download Size change: 212.7MB (Total: 69.3GB)
+- Install Size change: 276.8MB (Total: 102.1GB)
+
+### Short Description:
+- Fixed the Carriage Driver living in a tree
+- Fixed some tree clippings in Morthal
+- Fixed PermaDeath Reloaded
+- Another attempt to bring back horse manes...
+
+### Added
+
+- [Bleak Falls Barrow Web Mother - CC The Contest Addon](https://www.nexusmods.com/skyrimspecialedition/mods/67773/?tab=files&file_id=282625)
+- [Missives - Bigger Trigger Box](https://www.nexusmods.com/skyrimspecialedition/mods/67772/?tab=files&file_id=282637)
+- [Player Stats (always at your fingertips)](https://www.nexusmods.com/skyrimspecialedition/mods/67622/?tab=files&file_id=282450)
+- [Veydosebrom Regions](https://www.nexusmods.com/skyrimspecialedition/mods/26293/?tab=files&file_id=282352) replaces the former ENB complex grass version of it
+
+### Removed
+
+- [Realm of Lorkhan - No Shards in Tamriel Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36348/?tab=files&file_id=230520) not needed anymore after the latest version of Realm of Lorkhan
+
+### Updated
+
+- [Almost Permadeath Reloaded SP](https://www.nexusmods.com/skyrimspecialedition/mods/66710/?tab=files&file_id=282542)
+- [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=254743)
+- [Eternal Flames](https://www.nexusmods.com/skyrimspecialedition/mods/67477/?tab=files&file_id=282434)
+- [Realm of Lorkhan - Freeform Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/18223/?tab=files&file_id=282529)
+- [SPID INI Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/51094/?tab=files&file_id=282507)
+
 ## Version 2.1.1.0
 - **Currently in open beta**
 - **Update is potentially save safe IF you update from the last beta**
