@@ -1,3 +1,39 @@
+## Version 2.2.0.0
+- **Still open Beta, but looking good already**
+- **Update is NOT save safe**
+- Download Size change: 1.3GB (Total: 67.9GB)
+- Install Size change: -287.8MB (Total: 102.4GB)
+
+### Short Description
+- Fixed Stagger at combat start
+- Fixed Wolves T-Posing to assert dominance
+- added a CC Camping extension
+
+### Added
+
+- [Extravagant Interiors - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/41621/?tab=files&file_id=167081)
+- [Immersive Load Screen Message Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67293/?tab=files&file_id=283640)
+- [Light of CInder](https://www.nexusmods.com/skyrimspecialedition/mods/67851/?tab=files&file_id=282825)
+- [MQ105ShoutTargetScript - Frequent Call Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67968/?tab=files&file_id=283348)
+- [Rest By Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/41271/?tab=files&file_id=166160)
+- [Skyrim Camping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/67991/?tab=files&file_id=283432)
+- [Wolves of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68069/?tab=files&file_id=283946)
+
+### Removed
+
+- [Hellblade - Timed Block](https://www.nexusmods.com/skyrimspecialedition/mods/50658/?tab=files&file_id=206583)
+- [Vampyrium-Resurrected (Vampire Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/39749/?tab=files&file_id=253534)
+
+### Updated
+
+- [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=283642)
+- [Eternal Flames](https://www.nexusmods.com/skyrimspecialedition/mods/67477/?tab=files&file_id=283231)
+- [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=283594)
+- [Patch for Nord Raven Battle Armor to work with SPID](https://www.nexusmods.com/skyrimspecialedition/mods/63608/?tab=files&file_id=283771)
+- [Player Stats (always at your fingertips)](https://www.nexusmods.com/skyrimspecialedition/mods/67622/?tab=files&file_id=283911)
+- [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
+
+
 ## Version 2.1.2.0
 - **Still in open beta**
 - **Update IS save safe as long as you did not take any of the classes, boons or curses in the starting area**
