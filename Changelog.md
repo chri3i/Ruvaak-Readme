@@ -8,6 +8,7 @@
 - Fixed a few landscape seams
 - Fixed a few Waterflow records
 - added a CC Camping extension
+- added experimental Resolution profiles for SSE Display Tweaks
 
 ### Added
 
