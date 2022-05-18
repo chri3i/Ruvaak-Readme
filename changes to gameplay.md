@@ -22,7 +22,7 @@ Various other gameplay mods used include:
 
 4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
-5. [Enhanced Vampirism](https://www.nexusmods.com/skyrimspecialedition/mods/61029) + [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely overhaul the vampire gameplay. I highly suggest checking out both mod pages to get an idea about the vampire gameplay.
+5. [Enhanced Vampirism](https://www.nexusmods.com/skyrimspecialedition/mods/61029) to overhaul the Vampire gameplay in a minimalistic but lore-friendly way. This will be subject to change but undecided yet
 
 6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
@@ -104,7 +104,7 @@ Ruvaak is relatively easy in terms of city overhauls but it adds a few new settl
 
 While Ruvaak is focused on enhancing what is in the base game, we also have a few additions.
 
-1. [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) *"﻿A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
+1. [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) *"A thousand years ago there was a powerful necromancer named Vuldur who lived in Vominheim. Together with his cultist group they ruled over the island with force and intimidation until one day a young nord prince Valdgar stood up and wage war against them. Eventually Vuldur and his group were defeated and they retreated to another realm."*
 
 2. [A lot of dungeon mods from this author](https://www.nexusmods.com/skyrimspecialedition/users/3591326) there are too many to list them, but I'm quite a fan of this mod author and the amount of dungeons from them reflects that.
 
