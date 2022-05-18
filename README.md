@@ -195,11 +195,11 @@ All of the MCM options are automatically configured for you already. Wait until 
 
 Ruvaak also makes use of a few GUI menus:
 
-- CatHub allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``
-- Immersive Equipment Distplay allows you to show equipment on your character. Key ``Backspace``
-- QUI is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
+- [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958) allows you to customize kill moves and chances for kill moves. Key ``ctrl + NumPad . (, for German keyboards)``
+- [Immersive Equipment Distplay](https://www.nexusmods.com/skyrimspecialedition/mods/62001) allows you to show equipment on your character. Key ``Backspace``
+- [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343?tab=files) is basically AddItem Menu. I don't suggest using it unless you know which items are definitely safe to take. Key ``F11``
 - ENB to adjust visuals and many effects. Only use it when you know what you're doing. Key ``shift + enter``
-
+- [PlayerStats](https://www.nexusmods.com/skyrimspecialedition/mods/67622) allows you to see Actor Values, such as Negative Resistances gained from eating alchemical ingredients, Attributes (current and max), etc using the ``NumPad Enter`` key. 
 
 ### Starting the Game
 
@@ -319,13 +319,12 @@ For see what changes happened in each version please refer to the [Change log](h
 
 - _YOU_ for reading this.
 - Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
-- Chef for the help with the armors.
+- Chef for the help with the armors and theory crafting random time sinks.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
-- Astro for testing and giving reports, more detailed than I ever expected. Seriously, thanks a lot.
+- Astro for more help than I can list. Be it testing or suggestions, seriously, thanks a lot.
 - The Animonculory Dev Team.
 - Guitarninja for walking me through uploading the list.
-- SiraMirai for the Skyshard adjustments (not fully implemented yet).
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 
