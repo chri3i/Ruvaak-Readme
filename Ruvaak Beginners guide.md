@@ -6,9 +6,12 @@
 
 ## Initial Setup
 
-### Optional Quick Start
-Not everyone wants to go through the intro scene again (you can if you want), but you got a choice to skip it now. The intro plays as normal, so let's skip to what happens if you decide to skip it.
-You start at the end of Helgen's cave and can create your character there. Once you leave the cave, you'll notice a chest on the right. It contains some items to get you started.
+### Realm of Lorkhan
+> "Being *re*born into a strange realm that seemingly exists beyond the mortal planes, it your turn to decide on your destiny"
+
+Feel free to explore the starting area however you see fit, and when you're ready, choose a crystal to go to your desired starting location.
+A word of advice: Ruvaak's combat is harder than anything in the base game! Only choose enemy filled starting areas if you know what you are doing.
+
 ### MCM Settings
 Change any settings to your liking, they come pre-configured to my likings.
 
