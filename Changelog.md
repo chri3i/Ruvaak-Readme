@@ -1,37 +1,52 @@
-## Version 2.2.0.0
-- **Still open Beta, but looking good already**
+## Version 2.3.0.0
 - **Update is NOT save safe**
-- Download Size change: 1.3GB (Total: 67.9GB)
-- Install Size change: -287.8MB (Total: 102.4GB)
 
 ### Short Description
 - Fixed Stagger at combat start
 - Fixed Wolves T-Posing to assert dominance
+- Fixed super stretched out clothes
+- Fixed a few landscape seams
+- Fixed a few Waterflow records
 - added a CC Camping extension
 
 ### Added
 
 - [Extravagant Interiors - Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/41621/?tab=files&file_id=167081)
+- [GOAT HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/22802/?tab=files&file_id=79354)
+- [HD Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/23262/?tab=files&file_id=81025)
+- [High poly Mudcrab n Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/62967/?tab=files&file_id=261194)
+- [Highlandcow HD by Pfuscher](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 - [Immersive Load Screen Message Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67293/?tab=files&file_id=283640)
 - [Light of CInder](https://www.nexusmods.com/skyrimspecialedition/mods/67851/?tab=files&file_id=282825)
 - [MQ105ShoutTargetScript - Frequent Call Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67968/?tab=files&file_id=283348)
+- [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061/?tab=files&file_id=284076)
+- [Psijic Teleport Spells - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/5643/?tab=files&file_id=97734)
 - [Rest By Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/41271/?tab=files&file_id=166160)
+- [Sigils of Shalidor](https://www.nexusmods.com/skyrimspecialedition/mods/14103/?tab=files&file_id=257029)
 - [Skyrim Camping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/67991/?tab=files&file_id=283432)
+- [Sneak Tools SE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1863/?tab=files&file_id=158792)
+- [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025/?tab=files&file_id=284508)
+- [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=281838)
 - [Wolves of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68069/?tab=files&file_id=283946)
+- [Vampire Allies Factions Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67995/?tab=files&file_id=283456)
 
 ### Removed
 
 - [Hellblade - Timed Block](https://www.nexusmods.com/skyrimspecialedition/mods/50658/?tab=files&file_id=206583)
+- [Modernize - Vanilla Version (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/64776/?tab=files&file_id=280704)
+- [Modernize - Vanilla Version (SMP) Bodyslides (CBBE (3BA) and HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/65156/?tab=files&file_id=271909)
 - [Vampyrium-Resurrected (Vampire Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/39749/?tab=files&file_id=253534)
 
 ### Updated
 
+- [Creation Club Integration - Armours](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
 - [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=283642)
 - [Eternal Flames](https://www.nexusmods.com/skyrimspecialedition/mods/67477/?tab=files&file_id=283231)
 - [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=283594)
 - [Patch for Nord Raven Battle Armor to work with SPID](https://www.nexusmods.com/skyrimspecialedition/mods/63608/?tab=files&file_id=283771)
 - [Player Stats (always at your fingertips)](https://www.nexusmods.com/skyrimspecialedition/mods/67622/?tab=files&file_id=283911)
 - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
+- [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767/?tab=files&file_id=278756)
 
 
 ## Version 2.1.2.0
