@@ -154,7 +154,7 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
-6. [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963) together with an add-on for it allows you to toggle your helmet and the addon even allows to have automatic lowered hoods in any safe interior.
+6. [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963) together with an add-on for it allows you to toggle your helmet and the addon even allows to have automatic lowered hoods in any safe interior. **Currently in some sort of testing phase as there are some hidden incompatibilities with it**
 
 7. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
 
