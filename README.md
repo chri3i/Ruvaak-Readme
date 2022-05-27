@@ -61,7 +61,7 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 
 [![Ruvaak Showcase](https://img.youtube.com/vi/KY1qEnkNpzM/0.jpg)](https://www.youtube.com/watch?v=KY1qEnkNpzM)
 
-### **Ruuvak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**
+# **Ruuvak requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**
 
 Mods to familiarize yourself while with the downloads are running:
 - [ORDII Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) This is the perk overhaul used in Ruvaak. It takes the excellent Ordinator and combines it with the scaling of Vokrii.
