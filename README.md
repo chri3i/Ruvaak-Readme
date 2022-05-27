@@ -1,6 +1,6 @@
 # Ruvaak
 
-Wabbajack Modlist Installer by Styyx
+Wabbajack Modlist Installer for Skyrim Special Edition with the **paid Anniversary Edition DLC** by Styyx
 
 ![Ruvaak-banner](https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitleResized.png)
 
