@@ -258,7 +258,7 @@ If your equipment got damaged or destroyed, visit a blacksmith to temper it, or 
 
 #### BethINI
 
-To get some more FPS, tweak the following value in the detail section in BethINI.
+To get some more FPS, tweak the following value in the detail section in BethINI. You find BethINI inside the tools folder within the list installation folder
 
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
