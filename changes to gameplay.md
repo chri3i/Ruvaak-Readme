@@ -9,7 +9,7 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Perma Death (Rouge Like mechanic)
 
-- the mod is located near the bottom of the left side in MO2 and is completely optional **before you start a new game**. I left it on by default as I like it, but I know many won't like it. If you are one of those who don't like it, simply disable it in MO2
+- Perma Death is now a fully integrated part of the list. You can disable it by going into the MCM (name TBD) and set the chance to 0
 
 
 Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
@@ -33,8 +33,6 @@ Various other gameplay mods used include:
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
-
-11. [Gold to skill potions](https://www.nexusmods.com/skyrimspecialedition/mods/65578) Usually after 20h+ gameplay, it's very difficult to spend your 200k+ gold gained from all around the world. This mod now provides you another option.
 
 
 ## Magic Mods
