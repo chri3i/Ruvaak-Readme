@@ -9,7 +9,7 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Perma Death (Rouge Like mechanic)
 
-- the mod is located near the bottom of the left side in MO2 and is completely optional **before you start a new game**. I left it on by default as I like it, but I know many won't like it. If you are one of those who don't like it, simply disable it in MO2
+- Perma Death is now a fully integrated part of the list. You can disable it by going into the MCM (name TBD) and set the chance to 0
 
 
 Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
@@ -33,8 +33,6 @@ Various other gameplay mods used include:
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
 10. [Powerful Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/32999) is a complete overhaul of Skyrim’s alchemy to make potions and poisons far more powerful. It comes with some downsides as it also introduces **permanent stat debuffs that can only be cured with a cure poison potion (note that this debuffs are hidden)**. To avoid the worst debuffs, just don't eat ingredients to learn the effects. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
-
-11. [Gold to skill potions](https://www.nexusmods.com/skyrimspecialedition/mods/65578) Usually after 20h+ gameplay, it's very difficult to spend your 200k+ gold gained from all around the world. This mod now provides you another option.
 
 
 ## Magic Mods
@@ -154,9 +152,7 @@ Ruvaak is by no means a heavily roleplaying focused list but there are some mods
 
 5. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.
 
-6. [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963) together with an add-on for it allows you to toggle your helmet and the addon even allows to have automatic lowered hoods in any safe interior. **Currently in some sort of testing phase as there are some hidden incompatibilities with it**
-
-7. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
+6. [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686) does what the name suggests. It is disabled by default in its MCM to enable it, simply load the 'Ruvaak' profile there. Make sure to read the mod page first to fully understand its features.
 
  ## **IMPORTANT REMINDER ABOUT INGREDIENTS** - Do NOT eat them to find out the effects, they will give you stackable permanent debuffs
 
