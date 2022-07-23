@@ -9,7 +9,7 @@ Almost every aspect of vanilla gameplay in Ruvaak has been changed in some way. 
 
 ## Perma Death (Rouge Like mechanic)
 
-- Perma Death is now a fully integrated part of the list. You can disable it by going into the MCM (name TBD) and set the chance to 0
+- Perma Death is now a fully integrated part of the list thanks to [Zdo Immersive Death](https://www.nexusmods.com/skyrimspecialedition/mods/35517). You can disable it by going into the MCM and set the chance to 0
 
 
 Ruvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
@@ -22,7 +22,7 @@ Various other gameplay mods used include:
 
 4. [Nightmare Night - Renaissance of Werebeasts](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
-5. [Enhanced Vampirism](https://www.nexusmods.com/skyrimspecialedition/mods/61029) to overhaul the Vampire gameplay in a minimalistic but lore-friendly way. This will be subject to change but undecided yet
+5. [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) and [Vampyrium-Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/39749) to completely change the vampire gameplay. Feeding is now only a chance to heal yourself and you get special perk by joining different vampire clans. I highly recommend checking out both mods' description if you plan on playing a vampire character.
 
 6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
@@ -62,7 +62,7 @@ Ruvaak completely reworks combat to be more action based and heavily 3rd person 
 
 3. [Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378) introduces attack commitment, so you can't freely turn around during attacks. The same is true for NPCs. It also gives you the ability to chains dual weapon attacks and left handed attacks.
 
-4.  [CGO Stripped](https://www.nexusmods.com/skyrimspecialedition/mods/60258) is a leight weight alternative to the popular CGO mod. This mod allows jumping attacks and it also introduces leaning while moving (adjustable in the MCM).
+4.  [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) in combination with [Skyrim Paragilder](https://www.nexusmods.com/skyrimspecialedition/mods/53256) can provide some interesting opportunities for ambushes and the likes.
 
 5. [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) tweaks the speed of projectiles in games so you can actually dodge the enemy range attacks like any modern action combat game.
 
@@ -87,6 +87,8 @@ Ruvaak comes with a wide variety of new quest and encounters. A few are listed b
 6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
 7. [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178) assures you, that you are not alone in the world and somebody is after your character
+8. [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) a story about Vigilants of Stendarr. The story gets darker as you progress through it and there's a lot to uncover. 
+# Note: If someone offers you a needle to kill someone, you shouldn't use it!!!
 
 ## Expanded Cities Towns and Villages
 
